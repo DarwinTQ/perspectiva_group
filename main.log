@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.9.14)  1 OCT 2025 14:31
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.9.14)  1 OCT 2025 15:57
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -452,19 +452,19 @@ Package pdftex.def Info: Escudo_UNSA.png  used on input line 59.
 [1
 
 {C:/Users/darwi/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./Escudo_UNSA.png>]
-LaTeX Font Info:    Trying to load font information for U+msa on input line 99.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 100.
  (C:\Users\darwi\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 99.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 100.
  (C:\Users\darwi\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 
-LaTeX Info: Redefining \. on input line 108.
-LaTeX Info: Redefining \% on input line 108.
+LaTeX Info: Redefining \. on input line 122.
+LaTeX Info: Redefining \% on input line 122.
 Package babel Info: 'spanish' activates 'spanish' shorthands.
-(babel)             Reported on input line 108.
+(babel)             Reported on input line 122.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -476,11 +476,11 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.108 ...as y Desafíos de la Integración 5G-IoT}
-                                                   [1]
+l.122 
+       [1]
 
-LaTeX Info: Redefining \. on input line 126.
-LaTeX Info: Redefining \% on input line 126.
+LaTeX Info: Redefining \. on input line 142.
+LaTeX Info: Redefining \% on input line 142.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -490,8 +490,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [2]
 
-LaTeX Info: Redefining \. on input line 150.
-LaTeX Info: Redefining \% on input line 150.
+LaTeX Info: Redefining \. on input line 171.
+LaTeX Info: Redefining \% on input line 171.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -500,59 +500,59 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [3]
-Underfull \hbox (badness 1509) in paragraph at lines 165--165
+Underfull \hbox (badness 1509) in paragraph at lines 181--181
 []|\OT1/cmr/m/n/10.95 Reducci^^Son de la-ten-cia
  []
 
 
-Underfull \hbox (badness 3568) in paragraph at lines 165--165
+Underfull \hbox (badness 3568) in paragraph at lines 181--181
 \OT1/cmr/m/n/10.95 en re-des sen-si-bles al
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 165--165
+Underfull \hbox (badness 10000) in paragraph at lines 181--181
 []|\OT1/cmr/m/n/10.95 Procesamiento de
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 165--165
+Underfull \hbox (badness 10000) in paragraph at lines 181--181
 \OT1/cmr/m/n/10.95 da-tos ba-sa-do en
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 169--169
+Underfull \hbox (badness 10000) in paragraph at lines 185--185
 []|\OT1/cmr/m/n/10.95 Randhava et
  []
 
 
-Underfull \hbox (badness 3579) in paragraph at lines 169--169
+Underfull \hbox (badness 3579) in paragraph at lines 185--185
 []|\OT1/cmr/m/n/10.95 Reducci^^Son de in-ter-fe-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 169--170
+Underfull \hbox (badness 10000) in paragraph at lines 185--186
 []|\OT1/cmr/m/n/10.95 Eficaz pa-ra sis-te-mas pe-
  []
 
 
-Underfull \hbox (badness 2012) in paragraph at lines 171--171
+Underfull \hbox (badness 2012) in paragraph at lines 187--187
 []|\OT1/cmr/m/n/10.95 Reducci^^Son del tiem-po
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 171--171
+Underfull \hbox (badness 10000) in paragraph at lines 187--187
 []|\OT1/cmr/m/n/10.95 Segmentaci^^Son pa-ra
  []
 
 
-Overfull \hbox (21.54718pt too wide) in paragraph at lines 159--174
+Overfull \hbox (21.54718pt too wide) in paragraph at lines 175--190
  [][] 
  []
 
 
 
-LaTeX Info: Redefining \. on input line 185.
-LaTeX Info: Redefining \% on input line 185.
+LaTeX Info: Redefining \. on input line 201.
+LaTeX Info: Redefining \% on input line 201.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -564,11 +564,11 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 pdfTeX warning (ext4): destination with the same identifier (name{table.1}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.185 
+l.201 
       ]
 
-LaTeX Info: Redefining \. on input line 206.
-LaTeX Info: Redefining \% on input line 206.
+LaTeX Info: Redefining \. on input line 225.
+LaTeX Info: Redefining \% on input line 225.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -578,8 +578,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [5]
 
-LaTeX Info: Redefining \. on input line 224.
-LaTeX Info: Redefining \% on input line 224.
+LaTeX Info: Redefining \. on input line 242.
+LaTeX Info: Redefining \% on input line 242.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -589,8 +589,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [6]
 
-LaTeX Info: Redefining \. on input line 250.
-LaTeX Info: Redefining \% on input line 250.
+LaTeX Info: Redefining \. on input line 266.
+LaTeX Info: Redefining \% on input line 266.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -600,8 +600,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [7]
 
-LaTeX Info: Redefining \. on input line 282.
-LaTeX Info: Redefining \% on input line 282.
+LaTeX Info: Redefining \. on input line 298.
+LaTeX Info: Redefining \% on input line 298.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -611,8 +611,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [8]
 
-LaTeX Info: Redefining \. on input line 322.
-LaTeX Info: Redefining \% on input line 322.
+LaTeX Info: Redefining \. on input line 338.
+LaTeX Info: Redefining \% on input line 338.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -622,8 +622,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [9]
 
-LaTeX Info: Redefining \. on input line 323.
-LaTeX Info: Redefining \% on input line 323.
+LaTeX Info: Redefining \. on input line 339.
+LaTeX Info: Redefining \% on input line 339.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -632,84 +632,84 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [10]
-Underfull \hbox (badness 1348) in paragraph at lines 330--331
+Underfull \hbox (badness 1348) in paragraph at lines 346--347
 \OT1/cmr/m/n/12 GRA-DED 802.11 AND 802.16 BA-SED NET-WORKS TO OP-TI-MI-ZE NET-
  []
 
 
-Underfull \hbox (badness 1226) in paragraph at lines 339--340
+Underfull \hbox (badness 1226) in paragraph at lines 355--356
 []\OT1/cmr/m/n/12 The In-te-gra-tion of the In-ter-net of Things (IoT) Ap-pli-ca-tions in-to 5G Net-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 345--346
+Underfull \hbox (badness 10000) in paragraph at lines 361--362
 []\OT1/cmr/m/n/12 5G and IoT: To-wards a new era of com-mu-ni-ca-tions
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 345--346
+Underfull \hbox (badness 10000) in paragraph at lines 361--362
 \OT1/cmr/m/n/12 and mea-su-re-ments. \OT1/cmr/m/it/12 Re-search-Ga-te\OT1/cmr/m/n/12 , 2025. [On-li-ne]. Dis-po-ni-ble:
  []
 
 
-Overfull \hbox (210.9067pt too wide) in paragraph at lines 345--346
+Overfull \hbox (210.9067pt too wide) in paragraph at lines 361--362
 \OT1/cmr/m/n/12 https://www.researchgate.net/publication/337668857[]5G[]and[]IoT[]Towards[]a[]new[]era[]of[]communications[]and[]measurements 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 354--355
+Underfull \hbox (badness 10000) in paragraph at lines 370--371
 []\OT1/cmr/m/n/12 ML-Based 5G Net-work Sli-cing Se-cu-rity: A Com-prehen-si-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 354--355
+Underfull \hbox (badness 10000) in paragraph at lines 370--371
 \OT1/cmr/m/n/12 ve Sur-vey. \OT1/cmr/m/it/12 Se-man-tic Scho-lar\OT1/cmr/m/n/12 , 2025. [On-li-ne]. Dis-po-ni-ble:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 357--358
+Underfull \hbox (badness 10000) in paragraph at lines 373--374
 []\OT1/cmr/m/n/12 Dynamic rou-ting op-ti-mi-za-tion in software-defined net-wor-king ba-sed on
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 357--358
+Underfull \hbox (badness 10000) in paragraph at lines 373--374
 \OT1/cmr/m/n/12 a me-ta-heu-ris-tic al-go-rithm. \OT1/cmr/m/it/12 Re-search-Ga-te\OT1/cmr/m/n/12 , 2024. [On-li-ne]. Dis-po-ni-ble:
  []
 
 
-Overfull \hbox (68.56987pt too wide) in paragraph at lines 357--358
+Overfull \hbox (68.56987pt too wide) in paragraph at lines 373--374
 \OT1/cmr/m/n/12 https://www.researchgate.net/publication/378180891[]Dynamic[]routing[]optimization[]in[]software-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 360--361
+Underfull \hbox (badness 10000) in paragraph at lines 376--377
 []\OT1/cmr/m/n/12 A Hy-brid Ma-chi-ne Lear-ning Fra-me-work for Dy-na-mic Re-sour-ce Op-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 360--361
+Underfull \hbox (badness 10000) in paragraph at lines 376--377
 \OT1/cmr/m/n/12 ti-mi-za-tion in 5G Net-works. \OT1/cmr/m/it/12 Re-search-Ga-te\OT1/cmr/m/n/12 , 2024. [On-li-ne]. Dis-po-ni-ble:
  []
 
 
-Overfull \hbox (330.85214pt too wide) in paragraph at lines 360--361
+Overfull \hbox (330.85214pt too wide) in paragraph at lines 376--377
 \OT1/cmr/m/n/12 https://www.researchgate.net/publication/391740172[]A[]Hybrid[]Machine[]Learning[]Framework[]for[]Dynamic[]Resource[]Optimization[]in[]5G[]Networks 
  []
 
 
-Overfull \hbox (23.03508pt too wide) in paragraph at lines 363--364
+Overfull \hbox (23.03508pt too wide) in paragraph at lines 379--380
 \OT1/cmr/m/n/12 https://www.researchgate.net/publication/335510509[]Edge[]Computing[]in[]5G[]A[]Review 
  []
 
 
-Overfull \hbox (479.2502pt too wide) in paragraph at lines 366--367
+Overfull \hbox (479.2502pt too wide) in paragraph at lines 382--383
 \OT1/cmr/m/n/12 https://www.researchgate.net/publication/387005591[]IMPACT[]OF[]IOT[]AND[]EDGE[]COMPUTING[]ON[]5G[]NETWORK[]PERFORMANCE[]FOR[]DATA[]COMMUNICATION 
  []
 
 
 
-LaTeX Info: Redefining \. on input line 368.
-LaTeX Info: Redefining \% on input line 368.
+LaTeX Info: Redefining \. on input line 384.
+LaTeX Info: Redefining \% on input line 384.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -718,59 +718,59 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [11]
-Underfull \hbox (badness 10000) in paragraph at lines 372--373
+Underfull \hbox (badness 10000) in paragraph at lines 388--389
 []\OT1/cmr/m/n/12 Survey on Ma-chi-ne Lear-ning in 5G. \OT1/cmr/m/it/12 In-ter-na-tio-nal Jour-nal of En-gi-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 372--373
+Underfull \hbox (badness 10000) in paragraph at lines 388--389
 \OT1/cmr/m/it/12 nee-ring Re-search & Tech-no-logy\OT1/cmr/m/n/12 , vol. 9, no. 1, 2020. [On-li-ne]. Dis-po-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 372--373
+Underfull \hbox (badness 10000) in paragraph at lines 388--389
 \OT1/cmr/m/n/12 ni-ble: https://www.ijert.org/research/survey-on-machine-learning-in-5g-
  []
 
 
-Underfull \hbox (badness 2221) in paragraph at lines 375--376
+Underfull \hbox (badness 2221) in paragraph at lines 391--392
 \OT1/cmr/m/n/12 si-fi-ca-tion and Re-gres-sion Tech-ni-ques. \OT1/cmr/m/it/12 Re-search-Ga-te\OT1/cmr/m/n/12 , 2024. [On-li-ne]. Dis-po-ni-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 375--376
+Underfull \hbox (badness 10000) in paragraph at lines 391--392
 \OT1/cmr/m/n/12 ble: https://www.researchgate.net/publication/391172513[]Machine[]Learning-
  []
 
 
-Overfull \hbox (64.65602pt too wide) in paragraph at lines 375--376
+Overfull \hbox (64.65602pt too wide) in paragraph at lines 391--392
 \OT1/cmr/m/n/12 Based[]Optimization[]for[]5G[]Resource[]Allocation[]Using[]Classification[]and[]Regression[]Techniques 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 378--379
+Underfull \hbox (badness 10000) in paragraph at lines 394--395
 []\OT1/cmr/m/n/12 Energy-Efficient Ra-dio Re-sour-ce Allo-ca-tion in 5G Using Deep Q-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 378--379
+Underfull \hbox (badness 10000) in paragraph at lines 394--395
 \OT1/cmr/m/n/12 Networks. \OT1/cmr/m/it/12 Uni-ver-si-dad de Gra-na-da\OT1/cmr/m/n/12 , 2024. [On-li-ne]. Dis-po-ni-ble:
  []
 
 
-Overfull \hbox (229.98764pt too wide) in paragraph at lines 378--379
+Overfull \hbox (229.98764pt too wide) in paragraph at lines 394--395
 \OT1/cmr/m/n/12 https://digibug.ugr.es/bitstream/handle/10481/106424/Radio$ $%20Resource$ $%20Allocation$ $%20in$ $%205G$ $%20Using$ $%20DQN.pdf 
  []
 
 
-Underfull \hbox (badness 1810) in paragraph at lines 381--382
+Underfull \hbox (badness 1810) in paragraph at lines 397--398
 \OT1/cmr/m/n/12 works. \OT1/cmr/m/it/12 MD-PI Ap-plied Scien-ces\OT1/cmr/m/n/12 , vol. 15, no. 13, 2025. [On-li-ne]. Dis-po-ni-ble:
  []
 
 
 
-LaTeX Info: Redefining \. on input line 385.
-LaTeX Info: Redefining \% on input line 385.
+LaTeX Info: Redefining \. on input line 401.
+LaTeX Info: Redefining \% on input line 401.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -792,15 +792,15 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 Here is how much of TeX's memory you used:
  13039 strings out of 468133
  202272 string characters out of 5430712
- 648434 words of memory out of 5000000
+ 647434 words of memory out of 5000000
  41437 multiletter control sequences out of 15000+600000
  636441 words of font info for 75 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,12n,79p,1154b,654s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,12n,79p,1061b,654s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/darwi/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/darwi/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/darwi/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/darwi/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/darwi/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/darwi/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Users/darwi/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/darwi/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/darwi/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/darwi/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/darwi/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/darwi/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/darwi/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on main.pdf (13 pages, 365752 bytes).
+Output written on main.pdf (13 pages, 362812 bytes).
 PDF statistics:
- 291 PDF objects out of 1000 (max. 8388607)
+ 280 PDF objects out of 1000 (max. 8388607)
  60 named destinations out of 1000 (max. 500000)
  198 words of extra memory for PDF output out of 10000 (max. 10000000)
 
