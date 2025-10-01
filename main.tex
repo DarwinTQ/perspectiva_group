@@ -91,43 +91,58 @@ La quinta generación de redes móviles (5G) y el Internet de las Cosas (IoT) re
 
 \subsection{Fundamentos de las Redes 5G: Más Allá de la Velocidad}
 
-Las redes 5G constituyen una evolución paradigmática con respecto a sus predecesoras, trascendiendo la simple mejora en la velocidad de datos para ofrecer una plataforma de comunicación versátil y de alto rendimiento\cite{ref1}. Su arquitectura está diseñada para ser un ``perfecto fundamento para que los ecosistemas IoT prosperen''\cite{ref4}, sustentada en tres categorías de servicio fundamentales definidas por organismos de estandarización como la Unión Internacional de Telecomunicaciones (ITU) y el 3GPP\cite{ref5}:
+Las redes 5G no solo incrementan la velocidad de transmisión de datos respecto a generaciones previas, sino que establecen una plataforma versátil para aplicaciones avanzadas. Su diseño se apoya en tres categorías principales de servicio, definidas por la ITU y el 3GPP:
+
 
 \begin{itemize}
-    \item \textbf{Banda Ancha Móvil Mejorada (eMBB):} Proporciona velocidades de datos de varios gigabits por segundo, diseñadas para soportar aplicaciones de alto consumo de ancho de banda como el streaming de video en ultra alta definición, la realidad virtual (VR) y la realidad aumentada (AR)\cite{ref7}.
-    
-    \item \textbf{Comunicaciones Ultra Confiables y de Baja Latencia (URLLC):} Es el habilitador clave para aplicaciones de misión crítica. Ofrece una fiabilidad del 99.999\% y latencias de extremo a extremo en el rango de 1 milisegundo, condiciones indispensables para vehículos autónomos, cirugía remota, control de redes eléctricas inteligentes y automatización industrial avanzada\cite{ref5}.
-    
-    \item \textbf{Comunicaciones Masivas de Tipo Máquina (mMTC):} Está diseñada para soportar una densidad masiva de dispositivos conectados, con capacidad para hasta un millón de dispositivos por kilómetro cuadrado. Estos dispositivos se caracterizan por un bajo consumo energético y transmisiones de datos esporádicas, siendo ideal para despliegues a gran escala en ciudades inteligentes, agricultura de precisión y logística\cite{ref7}.
+\item \textbf{Banda Ancha Móvil Mejorada (eMBB):} proporciona velocidades del orden de gigabits por segundo, necesarias para aplicaciones como video en ultra alta definición, realidad virtual y realidad aumentada.
+\item \textbf{Comunicaciones Ultra Confiables y de Baja Latencia (URLLC):} habilitan aplicaciones críticas como vehículos autónomos, cirugía remota y automatización industrial, gracias a latencias cercanas a 1 ms y fiabilidad superior al 99.999\%.
+\item \textbf{Comunicaciones Masivas entre Máquinas (mMTC):} permiten la conexión simultánea de millones de dispositivos de bajo consumo, característica fundamental para el despliegue masivo de IoT.
 \end{itemize}
 
 \subsection{El Ecosistema del Internet de las Cosas (IoT): Un Universo de Dispositivos Heterogéneos}
 
+El IoT es una red global de miles de millones de dispositivos físicos interconectados, que abarcan desde sensores simples hasta maquinaria industrial compleja y dispositivos \textit{wearables}. Estos equipos recopilan y transmiten datos, generando un flujo continuo de información.
+
+
+Las aplicaciones de IoT se extienden a múltiples áreas:
+\begin{itemize}
+\item \textbf{Salud:} monitoreo remoto de pacientes.
+\item \textbf{Industria:} mantenimiento predictivo.
+\item \textbf{Agricultura:} sensores de humedad y control de cultivos.
+\item \textbf{Ciudades inteligentes:} gestión de tráfico, alumbrado y seguridad.
+\item \textbf{Hogares inteligentes:} automatización y control de dispositivos.
+\item \textbf{Transporte:} vehículos conectados y logística optimizada.
+\end{itemize}
+
+
+La rápida expansión y diversidad de dispositivos IoT es el principal factor que complica la gestión de recursos en redes modernas, al coexistir aplicaciones con demandas muy distintas en términos de latencia, ancho de banda y consumo energético.
 El IoT se concibe como una red global de miles de millones de dispositivos físicos interconectados, que van desde simples sensores de temperatura y actuadores hasta maquinaria industrial compleja y wearables avanzados\cite{ref1}. Cada uno de estos dispositivos recopila y comparte datos, creando un flujo de información sin precedentes. La ``rápida proliferación de dispositivos IoT y la diversidad de sus requisitos'' es precisamente el catalizador principal del complejo problema de la gestión de recursos de red. Las aplicaciones de IoT abarcan prácticamente todos los sectores de la economía y la sociedad, incluyendo la salud (monitoreo remoto de pacientes), la industria (mantenimiento predictivo), la agricultura (sensores de humedad del suelo), las ciudades inteligentes (gestión del tráfico y alumbrado público), los hogares inteligentes (automatización) y el transporte (vehículos conectados).
 
 \subsection{Sinergias y Desafíos de la Integración 5G-IoT}
 
-La convergencia de 5G e IoT no es una mera suma de tecnologías, sino una simbiosis que da lugar a un ecosistema de ``conectividad inteligente''\cite{ref7}. La red 5G proporciona la infraestructura de comunicación robusta, de baja latencia y alta capacidad que el IoT necesita para desarrollar todo su potencial, permitiendo aplicaciones que antes eran inviables\cite{ref11}.
-
-Sin embargo, esta poderosa sinergia genera un desafío central: la gestión eficiente de recursos en redes que son, por diseño, de ``alta densidad'' (debido a mMTC) y extremadamente ``dinámicas'' (debido a la movilidad de los usuarios y los requisitos fluctuantes de URLLC y eMBB). Una tensión fundamental surge de la propia arquitectura de servicios de 5G. La red debe gestionar simultáneamente, y a menudo en la misma área geográfica, dispositivos con demandas de recursos radicalmente opuestas. Por ejemplo, un sensor de bajo consumo (mMTC) requiere una conectividad mínima y esporádica, mientras que un vehículo autónomo cercano (URLLC) exige una conexión infalible y de latencia casi nula, y una aplicación de realidad aumentada (eMBB) en el mismo sector demanda un ancho de banda masivo. Esto transforma el problema de la asignación de recursos de una simple cuestión de ``cantidad'' a un complejo problema de optimización multidimensional de ``calidad'', ``prioridad'' y ``temporalidad'', que los enfoques de gestión estáticos no pueden resolver.
+La convergencia entre 5G e IoT potencia aplicaciones que antes no eran viables al combinar alta capacidad, baja latencia y gran densidad de dispositivos. Sin embargo, esa combinación también genera retos operativos importantes: cohabitan servicios con requisitos muy distintos (por ejemplo, baja tasa de datos y baja energía frente a aplicaciones de alta tasa y baja latencia), lo que dificulta la asignación eficiente de recursos.
 
 \subsection{El Problema Central de la Asignación de Recursos en Entornos Dinámicos}
 
-La asignación de recursos en redes 5G-IoT se define como la orquestación óptima y dinámica de recursos de red finitos —tales como el espectro de radiofrecuencia, la potencia de transmisión, los bloques de recursos computacionales y la conectividad de backhaul— entre una multitud de agentes heterogéneos (dispositivos IoT, usuarios finales, aplicaciones de misión crítica) con demandas variables en el tiempo y en un entorno de red propenso a fluctuaciones rápidas\cite{ref9}. El objetivo no es la maximización de un único parámetro, como el rendimiento agregado, sino un problema de optimización multiobjetivo que busca un equilibrio entre métricas a menudo contrapuestas\cite{ref13}.
+La asignación de recursos en 5G-IoT consiste en distribuir de forma eficiente elementos finitos (espectro, tiempo de transmisión, potencia, capacidad de cómputo en el borde, etc.) entre múltiples dispositivos y aplicaciones que cambian en el tiempo. El objetivo no es optimizar únicamente una métrica (por ejemplo, rendimiento agregado), sino lograr un balance entre varias métricas importantes (latencia, fiabilidad, consumo energético y equidad).
+
+Características del problema:Es multidimensional y multiobjetivo, requiere decisiones en diferentes escalas de tiempo (predicción a mediano plazo y control en tiempo real), se beneficia de información histórica y de medidas en tiempo real para tomar decisiones más robustas.
 
 \subsection{Métricas Clave de Rendimiento y Calidad de Servicio (QoS)}
 
-Cualquier solución viable para la asignación de recursos debe ser evaluada en función de un conjunto de métricas críticas que definen el rendimiento de la red y la experiencia del usuario. El documento de investigación principal identifica la gestión de la Calidad de Servicio (QoS) como un ``impedimento'' fundamental en la asignación de recursos. Las métricas clave incluyen:
-
+Las soluciones se evalúan por su impacto en métricas que determinan la experiencia del usuario y la eficiencia de la red. Entre las más relevantes están:
 \begin{itemize}
-    \item \textbf{Calidad de Servicio (QoS):} Un concepto multifacético que engloba la fiabilidad de la conexión, la tasa de error de bloque (BLER), la disponibilidad del servicio y el cumplimiento de los acuerdos de nivel de servicio (SLA) para diferentes aplicaciones y segmentos de red\cite{ref16}.
-    
-    \item \textbf{Latencia:} El tiempo de retardo en la transmisión de datos de extremo a extremo. Es una métrica primordial para las aplicaciones URLLC, donde cada milisegundo es crítico. El objetivo es lograr mejoras sustanciales en la latencia.
-    
-    \item \textbf{Ancho de Banda:} La capacidad de transmisión de datos, medida típicamente en bits por segundo. Es esencial para los servicios eMBB que manejan grandes volúmenes de datos. Se buscan mejoras significativas en la utilización del ancho de banda disponible.
-    
-    \item \textbf{Eficiencia Energética:} El consumo de energía tanto de la infraestructura de red como de los dispositivos terminales. Esta métrica es crucial para la sostenibilidad económica y medioambiental de los despliegues masivos de IoT (especialmente mMTC) y para prolongar la vida útil de los dispositivos alimentados por batería.
+\item \textbf{Latencia:} tiempo total de transmisión extremo a extremo; crítico en URLLC.
+\item \textbf{Disponibilidad/Fiabilidad:} probabilidad de mantener el servicio aceptable durante un intervalo.
+\item \textbf{Ancho de banda/Throughput:} capacidad de transferencia de datos para servicios eMBB.
+\item \textbf{Eficiencia energética:} consumo por bit o por dispositivo, importante en mMTC.
+\item \textbf{Tasa de error (BLER):} mide integridad de la transmisión.
+\item \textbf{Equidad y aislamiento entre slices:} garantizar que servicios críticos no se vean afectados por tráfico menos prioritario.
 \end{itemize}
+
+
+Al diseñar y comparar algoritmos, conviene presentar resultados en métricas múltiples (ej.: latencia vs. throughput vs. consumo) para mostrar compensaciones.
 
 \subsection{Estado del Arte en la Optimización de Recursos para Redes 5G}
 
